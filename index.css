@@ -1,0 +1,11 @@
+.outerdiv {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.innerdiv1,
+.innerdiv2,
+.innerdiv3 {
+  border-radius: 100px;
+  margin-bottom: 6px;
+}
